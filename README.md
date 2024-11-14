@@ -1,28 +1,28 @@
 # CRM-Application-for-Managing-Institutional-Facilities
-Table of Content
-1)Introduction
+## Table of Content
+1)-[Introduction](Introduction)
 
 Overview
 Objectives
 Scope
-2)System Design and Architecture
+2)-[System Design and Architecture](System Design and Architecture)
 
 Architecture Overview
 Component Design
 Data Model
-3)Functional Requirements
+3)-[Functional Requirements](Functional Requirements)
 
 Facility Booking
 User Management
 Reporting and Analytics
 Feedback and Reviews
-4)Non-Functional Requirements
+4)-[Non-Functional Requirements](Non-Functional Requirements)
 
 Performance
 Security
 Scalability
 Usability
-5)Technology Stack
+5)-[Technology Stack](Technology Stack)
 
 Salesforce Platform
 Apex
