@@ -1,15 +1,17 @@
 # CRM-Application-for-Managing-Institutional-Facilities
 ## Table of Content
-1)-[Introduction](Introduction)
+1)-[Introduction](#Introduction)
 
 Overview
 Objectives
 Scope
-2)-[System Design and Architecture](System Design and Architecture)
+
+2)-[System Design and Architecture](#System Design and Architecture)
 
 Architecture Overview
 Component Design
 Data Model
+
 3)-[Functional Requirements](Functional Requirements)
 
 Facility Booking
